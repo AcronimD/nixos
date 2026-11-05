@@ -1,0 +1,14 @@
+NixOS/
+sources/*
+!sources/README.md
+result
+result-*
+*.qcow2
+*.iso
+*.vdi
+.secrets/
+logs/*.png
+logs/*.log
+logs/
+NixOS-3D-project.zip
+.publish/
